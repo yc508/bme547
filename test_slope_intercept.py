@@ -10,3 +10,4 @@ def test_linearequation(tuple1, tuple2, input, expected):
     from slope_intercept import linearequation
     answer = linearequation(tuple1, tuple2, input)
     assert answer == int(expected)
+
