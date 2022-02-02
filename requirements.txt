@@ -1,0 +1,4 @@
+Jupyter
+Numpy
+pytest
+pytest-pycodestyle
